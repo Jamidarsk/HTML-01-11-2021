@@ -1,0 +1,14 @@
+/* #index {
+    border: 1px solid chartreuse;
+} */
+ 
+thead , tbody , tr , th , td , ul , li
+{
+    border: 1px solid chartreuse;
+}
+
+img
+{
+    height: 500px;
+    object-fit: cover;
+}
